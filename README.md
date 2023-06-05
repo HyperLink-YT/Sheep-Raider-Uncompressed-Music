@@ -3,4 +3,4 @@ The PC version of Sheep Raider with Uncompressed Music.
 
 Replace the WAV files found in the Musics folder.
 
-Game by Infogrames Lyon House.
+Game by Infogrammes Lyon House.
